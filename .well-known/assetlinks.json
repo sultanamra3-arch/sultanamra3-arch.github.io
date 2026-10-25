@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sultanamra3_arch.twa",
+        "sha256_cert_fingerprints": ["F7:4C:F2:C0:67:C0:66:48:72:5B:42:5F:4F:42:6A:10:88:B8:54:70:F7:7F:09:A1:1B:81:2D:D9:29:DF:E6:49"]
+      }
+    }]
